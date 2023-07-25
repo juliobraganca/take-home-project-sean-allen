@@ -27,6 +27,7 @@
 		36BD98982A69897E00212A5D /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD98972A69897E00212A5D /* ErrorMessage.swift */; };
 		36BD989B2A69AB4C00212A5D /* FollowerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD989A2A69AB4C00212A5D /* FollowerCell.swift */; };
 		36BD989D2A69AC9A00212A5D /* GFAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD989C2A69AC9A00212A5D /* GFAvatarImageView.swift */; };
+		36BD989F2A6B0BB100212A5D /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD989E2A6B0BB100212A5D /* UIHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		36BD98972A69897E00212A5D /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 		36BD989A2A69AB4C00212A5D /* FollowerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerCell.swift; sourceTree = "<group>"; };
 		36BD989C2A69AC9A00212A5D /* GFAvatarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAvatarImageView.swift; sourceTree = "<group>"; };
+		36BD989E2A6B0BB100212A5D /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				36BD98972A69897E00212A5D /* ErrorMessage.swift */,
+				36BD989E2A6B0BB100212A5D /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				36BD987F2A65D16C00212A5D /* FollowerListVC.swift in Sources */,
 				361AD2B62A6193DE004843F4 /* AppDelegate.swift in Sources */,
 				36BD98982A69897E00212A5D /* ErrorMessage.swift in Sources */,
+				36BD989F2A6B0BB100212A5D /* UIHelper.swift in Sources */,
 				36BD98952A6860FF00212A5D /* NetworkManager.swift in Sources */,
 				361AD2B82A6193DE004843F4 /* SceneDelegate.swift in Sources */,
 				36BD988D2A6714E800212A5D /* GFContainerView.swift in Sources */,
