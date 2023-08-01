@@ -29,6 +29,7 @@
 		36BD989D2A69AC9A00212A5D /* GFAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD989C2A69AC9A00212A5D /* GFAvatarImageView.swift */; };
 		36BD989F2A6B0BB100212A5D /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD989E2A6B0BB100212A5D /* UIHelper.swift */; };
 		36BD98A72A70168D00212A5D /* GFEmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD98A62A70168D00212A5D /* GFEmptyStateView.swift */; };
+		36BD98A92A71744700212A5D /* UserInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BD98A82A71744700212A5D /* UserInfoVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		36BD989C2A69AC9A00212A5D /* GFAvatarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAvatarImageView.swift; sourceTree = "<group>"; };
 		36BD989E2A6B0BB100212A5D /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		36BD98A62A70168D00212A5D /* GFEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFEmptyStateView.swift; sourceTree = "<group>"; };
+		36BD98A82A71744700212A5D /* UserInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				361AD2C92A619FFD004843F4 /* SearchVC.swift */,
 				36BD987E2A65D16C00212A5D /* FollowerListVC.swift */,
 				361AD2CB2A61A028004843F4 /* FavoritesListVC.swift */,
+				36BD98A82A71744700212A5D /* UserInfoVC.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				36BD989B2A69AB4C00212A5D /* FollowerCell.swift in Sources */,
 				36BD989D2A69AC9A00212A5D /* GFAvatarImageView.swift in Sources */,
 				36BD98832A66E78E00212A5D /* GFBodyLabel.swift in Sources */,
+				36BD98A92A71744700212A5D /* UserInfoVC.swift in Sources */,
 				36BD98902A6828C900212A5D /* Follower.swift in Sources */,
 				36BD98812A66E5FC00212A5D /* GFTitleLabel.swift in Sources */,
 				36BD987F2A65D16C00212A5D /* FollowerListVC.swift in Sources */,
