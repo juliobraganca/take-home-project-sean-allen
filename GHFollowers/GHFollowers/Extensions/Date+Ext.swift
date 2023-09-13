@@ -15,5 +15,4 @@ extension Date {
         dateFormatter.locale        = Locale(identifier: "en_US_POSIX")
         return dateFormatter.string(from: self)
     }
-    
 }
