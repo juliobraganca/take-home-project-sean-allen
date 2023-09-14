@@ -34,5 +34,4 @@ class GFTitleLabel: UILabel {
         minimumScaleFactor          = 0.90
         lineBreakMode               = .byTruncatingTail
     }
-    
 }
