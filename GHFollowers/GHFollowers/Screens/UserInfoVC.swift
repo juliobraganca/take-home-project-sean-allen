@@ -15,6 +15,7 @@ class UserInfoVC: GFDataLoadingVC {
     
     let scrollView          = UIScrollView()
     let contentView         = UIView()
+    
     let headerView          = UIView()
     let itemViewOne         = UIView()
     let itemViewTwo         = UIView()
