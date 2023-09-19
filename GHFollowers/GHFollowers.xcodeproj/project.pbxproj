@@ -239,9 +239,9 @@
 		36BD98A02A7015EA00212A5D /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				36BD988C2A6714E800212A5D /* GFContainerView.swift */,
 				36BD98A62A70168D00212A5D /* GFEmptyStateView.swift */,
 				367458CF2A968632008E77D8 /* GFItemInfoView.swift */,
+				36BD988C2A6714E800212A5D /* GFContainerView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
